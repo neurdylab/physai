@@ -34,9 +34,9 @@
     <a href="https://doi.org/10.31219/osf.io/fj4gq" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">PREPRINT</a>
     <a href="https://osf.io/fj4gq/download" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">PDF</a>
     <a href="https://www.github.com/neurdylab/deep-physio-recon" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">CODE</a>
-</div>
+</div></div>
 
-</div>
+[@bayrak2020deep]
 
 ---
 

@@ -70,5 +70,10 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
+plugins:
+  - search
+  - bibtex:
+      bib_file: "docs/references.bib"
+
 copyright: Copyright © 2024 NEURDY Lab
 

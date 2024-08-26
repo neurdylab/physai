@@ -6,9 +6,7 @@ Many studies of the human brain using functional magnetic resonance imaging (fMR
 
 ### Young Adult Project
 
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-    <a href="#" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">REPO</a>
-</div>
+[REPO :simple-github:](#){ .md-button }
 
 In this project, we develop and rigorously evaluate a computational approach for inferring slow changes in respiratory volume (RV) and heart rate (HR) directly from the fMRI signal, without the need for fast multiband sampling or slice-based reconstructions. Leveraging a multi-task learning (MTL) framework, our approach simultaneously learns RV and HR, providing a robust method for enhancing fMRI data.
 
@@ -32,9 +30,7 @@ estimation. The output of linear layers are RV and HR signals.
 
 ### Lifespan Project
 
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-    <a href="#" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">REPO</a>
-</div>
+[REPO :simple-github:](#){ .md-button }
 
 In our lifespan project, we propose a novel framework that leverages Transformer-based architectures to reconstruct two key physiological signals—low-frequency respiratory volume (RV) and heart rate (HR) fluctuations—directly from fMRI data. This approach is specifically designed for and tested on a dataset of individuals aged 36-89 years old, encompassing a broad range of the adult lifespan.
 
@@ -53,6 +49,15 @@ Our framework successfully infers critical physiological variables directly from
 ### Other Research Inspired by DeepPhysioRecon Project
 1. Addeh, A., Vega, F., Medi, P. R., Williams, R. J., Pike, G. B., & MacDonald, M. E. (2023). Direct machine learning reconstruction of respiratory variation waveforms from resting state fMRI data in a pediatric population. NeuroImage, 269, 119904. https://doi.org/10.1016/j.neuroimage.2023.119904
 
+
+---
+## Physiological Signal Patterns
+<PLACE HOLDER>
+
+### Heritability
+
+### 
+
 ---
 ## Quality Assesment (QA)
 
@@ -70,9 +75,7 @@ We are working on designing a manual quality assessment tool for physiological d
 
 With this app, users will efficiently navigate through individual subject waveforms, review timeseries data, and apply standardized quality labels. The tool will also enable textual annotations, providing context and insights into the quality of the waveforms.
 
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-    <a href="https://github.com/neurdylab/physio_QA_manual" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">REPO</a>
-</div>
+[REPO :simple-github:](https://github.com/neurdylab/physio_QA_manual){ .md-button }
 
 ---
 
@@ -82,6 +85,6 @@ As research practices generate increasingly large datasets, the need for efficie
 
 Automated QA systems, powered by DL, can rapidly and consistently assess the quality of physiological data across large datasets, identifying patterns and anomalies that might be overlooked in manual review. By leveraging the ability of DL models to learn from vast amounts of data, we can achieve more accurate and objective assessments, reduce the burden on researchers, and ensure that high-quality data is consistently used in analyses.
 
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-    <a href="https://github.com/neurdylab/physio_QA_dl" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">REPO</a>
-</div>
+[REPO :simple-github:](https://github.com/neurdylab/physio_QA_dll){ .md-button }
+
+\bibliography
