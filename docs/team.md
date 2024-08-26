@@ -35,8 +35,6 @@ Vanderbilt University<br>
 <strong>Roza Gunes Bayrak, PhD</strong><br>
 Research Assistant Professor<br>
 Vanderbilt University<br>
-<br>
-<strong>Role:</strong> Co-Investigator ??<br>
 </div></div>
 
 ---
@@ -96,6 +94,40 @@ Vanderbilt University<br>
 
 <div style="flex: 1;">
 <p align="left">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/richard.jpg?raw=true" width="200">
+</p>
+</div>
+
+<div style="flex: 3; padding-left: 20px;">
+
+<strong>Richard Song</strong><br>
+Undergraduate Student<br>
+Vanderbilt University<br>
+</div></div>
+
+---
+
+## Collaborators
+
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+<p align="left">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/mara.jpg?raw=true" width="200">
+</p>
+</div>
+
+<div style="flex: 3; padding-left: 20px;">
+
+<strong>Mara Mather, PhD</strong><br>
+Professor<br>
+University of Southern California<br>
+</div></div>
+
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+<p align="left">
 <img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/ben.jpg?raw=true" width="200">
 </p>
 </div>
@@ -124,19 +156,36 @@ Postdoctoral Researcher<br>
 Vanderbilt University<br>
 </div></div>
 
-## External Collaborators
+---
 
 <div style="display: flex; align-items: center;">
 
 <div style="flex: 1;">
 <p align="left">
-<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/mara.jpg?raw=true" width="200">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/yuankai.jpg?raw=true" width="200">
 </p>
 </div>
 
 <div style="flex: 3; padding-left: 20px;">
 
-<strong>Mara Mather, PhD</strong><br>
-Associate Professor<br>
-University of Southern California<br>
+<strong>Ben Gold, PhD</strong><br>
+Postdoctoral Researcher<br>
+Vanderbilt University<br>
+</div></div>
+
+---
+
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+<p align="left">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/bennett.jpg?raw=true" width="200">
+</p>
+</div>
+
+<div style="flex: 3; padding-left: 20px;">
+
+<strong>Sarah Goodale, PhD</strong><br>
+Postdoctoral Researcher<br>
+Vanderbilt University<br>
 </div></div>
