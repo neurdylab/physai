@@ -45,11 +45,6 @@ Our framework successfully infers critical physiological variables directly from
 
 > Transformer seq2one (a) and Transformer seq2seq (b) model architectures. These models take fMRI time-series from specific brain regions of interest (ROIs) as input, and output the predicted physiological (RV and HR) time courses.
 
----
-
-### Other Research Inspired by DeepPhysioRecon Project
-1. Addeh, A., Vega, F., Medi, P. R., Williams, R. J., Pike, G. B., & MacDonald, M. E. (2023). Direct machine learning reconstruction of respiratory variation waveforms from resting state fMRI data in a pediatric population. NeuroImage, 269, 119904. https://doi.org/10.1016/j.neuroimage.2023.119904
-
 
 ---
 ## Physiological Signal Patterns
@@ -57,7 +52,14 @@ Our framework successfully infers critical physiological variables directly from
 
 ### Heritability
 
-### 
+---
+## Physiological Variability Across Lifespan
+<PLACE HOLDER>
+ 
+---
+ 
+## State-Dependent Brain-Body Interactions
+<PLACE HOLDER>
 
 ---
 ## Quality Assesment (QA)

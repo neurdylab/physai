@@ -124,6 +124,8 @@ Professor<br>
 University of Southern California<br>
 </div></div>
 
+---
+
 <div style="display: flex; align-items: center;">
 
 <div style="flex: 1;">
@@ -168,8 +170,8 @@ Vanderbilt University<br>
 
 <div style="flex: 3; padding-left: 20px;">
 
-<strong>Ben Gold, PhD</strong><br>
-Postdoctoral Researcher<br>
+<strong>Yuankai Huo, PhD</strong><br>
+Assistant Professor<br>
 Vanderbilt University<br>
 </div></div>
 
@@ -185,7 +187,7 @@ Vanderbilt University<br>
 
 <div style="flex: 3; padding-left: 20px;">
 
-<strong>Sarah Goodale, PhD</strong><br>
-Postdoctoral Researcher<br>
+<strong>Bennett Landman, PhD</strong><br>
+Profesor<br>
 Vanderbilt University<br>
 </div></div>
