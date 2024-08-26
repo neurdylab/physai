@@ -88,4 +88,4 @@ As research practices generate increasingly large datasets, the need for efficie
 
 Automated QA systems, powered by DL, can rapidly and consistently assess the quality of physiological data across large datasets, identifying patterns and anomalies that might be overlooked in manual review. By leveraging the ability of DL models to learn from vast amounts of data, we can achieve more accurate and objective assessments, reduce the burden on researchers, and ensure that high-quality data is consistently used in analyses.
 
-[REPO :simple-github:](https://github.com/neurdylab/physio_QA_dll){ .md-button }
+[REPO :simple-github:](https://github.com/neurdylab/physio_QA_dl){ .md-button }
