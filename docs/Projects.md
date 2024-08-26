@@ -12,7 +12,7 @@ Many studies of the human brain using functional magnetic resonance imaging (fMR
 
 In this project, we develop and rigorously evaluate a computational approach for inferring slow changes in respiratory volume (RV) and heart rate (HR) directly from the fMRI signal, without the need for fast multiband sampling or slice-based reconstructions. Leveraging a multi-task learning (MTL) framework, our approach simultaneously learns RV and HR, providing a robust method for enhancing fMRI data.
 
-The model undergoes extensive validation through new experiments, larger subject pools, and the inclusion of an external dataset. We also incorporate a task model to account for brain-state dependency, ensuring that the inferred signals are contextually relevant. This project goes beyond model development by thoroughly assessing the utility of the predicted signals, model performance, interpretability, and sensitivity.
+The model undergoes extensive validation through various experiments (e.g. downstream data analysis, factors impacting model performance), larger subject pools (e.g. various fMRI paradigms), and model evaluation on an external (out-of-distribution) dataset. We develop resting-state models as our main model. However, we also evaluated a task model to assess brain-state dependency, ensuring that the inferred signals are contextually relevant. This project goes beyond model development by thoroughly assessing the utility of the predicted signals, model performance, interpretability, and sensitivity.
 
 The result is a meticulously validated tool that enriches neuroimaging datasets by reconstructing missing or corrupted physiological data, specifically tailored for the young adult population.
 
@@ -48,7 +48,10 @@ Our framework successfully infers critical physiological variables directly from
 
 > Transformer seq2one (a) and Transformer seq2seq (b) model architectures. These models take fMRI time-series from specific brain regions of interest (ROIs) as input, and output the predicted physiological (RV and HR) time courses.
 
+---
 
+### Other Research Inspired by DeepPhysioRecon Project
+1. Addeh, A., Vega, F., Medi, P. R., Williams, R. J., Pike, G. B., & MacDonald, M. E. (2023). Direct machine learning reconstruction of respiratory variation waveforms from resting state fMRI data in a pediatric population. NeuroImage, 269, 119904. https://doi.org/10.1016/j.neuroimage.2023.119904
 
 ---
 ## Quality Assesment (QA)
