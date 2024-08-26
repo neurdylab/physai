@@ -1,0 +1,57 @@
+site_name: PhysAI
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate 
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.tabs.annotate
+    - content.tabs.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Dark Mode
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Light Mode
+      primary: indigo
+      accent: indigo
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://www.github.com/neurdylab
+    - icon: fontawesome/brands/twitter
+      link: https://www.x.com/neurdylab
+    - icon: fontawesome/solid/globe
+      link: https://www.cchanglab.com
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: Copyright © 2024 NEURDY Lab
+
