@@ -1,44 +1,146 @@
-# Our Team
+## NEURDY Lab
 
-Welcome to the team page! Meet the amazing people who make our project successful.
+<div style="display: flex; align-items: center;">
 
----
-
-## Team Members
-<p align="center">
-<img src="https://github.com/neurdylab/physai/assets/teams/catie.jpg?raw=true" width="100">
+<div style="flex: 1;">
+<p align="left">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/catie.jpg?raw=true" width="200">
 </p>
-### Catie Chang, PhD
-Assistant Professor <br>
-Vanderbilt University
+</div>
 
-**Role:** Principal Investigator<br>
-**Contact:** catie [dot] chang [at] vanderbilt [dot] edu
+<div style="flex: 3; padding-left: 20px;">
+
+<strong>Catie Chang, PhD</strong><br>
+Assistant Professor<br> 
+Vanderbilt University<br>
+<br>
+<strong>Role:</strong> Principal Investigator<br>
+
+</div>
+
+</div>
 
 ---
 
-![Photo](assets/team/roza.jpg)
-### Roza Gunes Bayrak, PhD
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+<p align="left">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/roza.jpg?raw=true" width="200">
+</p>
+</div>
+
+<div style="flex: 3; padding-left: 20px;">
+  
+<strong>Roza Gunes Bayrak, PhD</strong><br>
 Research Assistant Professor<br>
-Vanderbilt University
+Vanderbilt University<br>
+<br>
+<strong>Role:</strong> Co-Investigator ??<br>
 
-**Role:** Co-Investigator<br>
-**Contact:** roza [dot] g [dot] bayrak [at] vanderbilt [dot] edu
+</div>
 
----
-
-![Photo](assets/team/shiyu.jpg)
-### Shiyu Wang
-PhD Candidate
+</div>
 
 ---
 
-<img src="assets/team/ziyuan.jpg" alt="Photo" height="150"/>
-### Ziyuan Xu
-Undergraduate Student
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+<p align="left">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/shiyu.jpg?raw=true" width="200">
+</p>
+</div>
+
+<div style="flex: 3; padding-left: 20px;">
+
+<strong>Shiyu Wang</strong><br>
+PhD Candidate<br>
+Vanderbilt University<br>
+<br>
+<strong>Role:</strong> Graduate Research Assistant<br>
+
+
+</div>
+
+</div>
 
 ---
 
-![Photo](assets/team/ben.jpg)
-### Ben Gold
-Post-doc
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+<p align="left">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/ziyuan.jpg?raw=true" width="200">
+</p>
+</div>
+
+<div style="flex: 3; padding-left: 20px;">
+
+<strong>Ziyuan Xu</strong><br>
+Undergraduate Student<br>
+Vanderbilt University<br>
+<br>
+<strong>Role:</strong> Undergraduate Research Assistant<br>
+
+
+</div>
+
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+<p align="left">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/ben.jpg?raw=true" width="200">
+</p>
+</div>
+
+<div style="flex: 3; padding-left: 20px;">
+
+<strong>Ben Gold, PhD</strong><br>
+Postdoctoral Researcher<br>
+Vanderbilt University<br>
+</div>
+
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+<p align="left">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/sarah.jpg?raw=true" width="200">
+</p>
+</div>
+
+<div style="flex: 3; padding-left: 20px;">
+
+<strong>Sarah Goodale, PhD</strong><br>
+Postdoctoral Researcher<br>
+Vanderbilt University<br>
+</div>
+
+</div>
+
+## External Collaborators
+
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+<p align="left">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/sarah.jpg?raw=true" width="200">
+</p>
+</div>
+
+<div style="flex: 3; padding-left: 20px;">
+
+<strong>Mara Mather, PhD</strong><br>
+Associate Professor<br>
+University of Southern California<br>
+</div>
+
+</div>

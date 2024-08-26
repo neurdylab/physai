@@ -36,10 +36,11 @@ nav:
     - Funding: home/funding.md
     - Contact: home/contact.md
   - Projects: projects.md
-  - Publications: publications.md
   - Resources: 
     - Tutorials: resources/tutorials.md
     - Datasets: resources/datasets.md
+  - Publications: publications.md
+  - Collaborations: collaborations.md
   - Team: team.md
   
 
