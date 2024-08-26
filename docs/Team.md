@@ -132,7 +132,7 @@ Vanderbilt University<br>
 
 <div style="flex: 1;">
 <p align="left">
-<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/sarah.jpg?raw=true" width="200">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/mara.jpg?raw=true" width="200">
 </p>
 </div>
 
