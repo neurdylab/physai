@@ -16,9 +16,17 @@ The model undergoes extensive validation through new experiments, larger subject
 
 The result is a meticulously validated tool that enriches neuroimaging datasets by reconstructing missing or corrupted physiological data, specifically tailored for the young adult population.
 
-<p align="center">
-<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/images/young.png?raw=true" width="500">
+> <p align="center">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/images/young.png?raw=true" width=800">
 </p>
+
+> The pipeline for estimating respiration volume (RV) and heart rate
+(HR) signals from fMRI time-series dynamics is shown. Regions of interest are defined using 4 published
+atlases that had been constructed from different imaging modalities, comprising areas in cerebral cortex,
+white matter, subcortex, and the ascending arousal network. ROI time-series signals are extracted from
+the fMRI volumes, detrended, bandpass filtered and downsampled. The preprocessed signals are provided
+to a candidate network as input channels. A bidirectional LSTM network architecture is adapted for joint
+estimation. The output of linear layers are RV and HR signals.
 
 ---
 
@@ -34,9 +42,11 @@ We evaluate several model training and fine-tuning strategies, with a significan
 
 Our framework successfully infers critical physiological variables directly from fMRI data, offering a powerful tool for studying brain-body interactions across a wide span of the adult lifespan. This work not only advances the field of neuroimaging but also enhances the efficacy of fMRI as a biomarker in aging research.
 
-<p align="center">
-<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/images/aging.png?raw=true" width="500">
+> <p align="center">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/images/lifespan.png?raw=true" height="500">
 </p>
+
+> Transformer seq2one (a) and Transformer seq2seq (b) model architectures. These models take fMRI time-series from specific brain regions of interest (ROIs) as input, and output the predicted physiological (RV and HR) time courses.
 
 
 
