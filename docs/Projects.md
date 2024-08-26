@@ -1,29 +1,51 @@
----
-## Deep-Physio-Recon
+## DeepPhysioRecon
+
+Many studies of the human brain using functional magnetic resonance imaging (fMRI) lack physiological measurements, which substantially impacts theinterpretation and richness of fMRI studies. Natural fluctuations in autonomic physiology, such as breathing and heart rate, provide windows into critical functions including cognition, emotion, and health, and can heavily influence fMRI signals. We developed a framework tracing continuous variations in respiration amplitude and heart rate directly from whole-brain fMRI dynamics. This project highlights the importance of studying brain-body interactions, proposes a tool that may enhance the efficacy of fMRI as a biomarker, and provides widely applicable open-source software.
+
 ---
 
-### Young Adult
-
+### Young Adult Project
 
 <div style="display: flex; gap: 10px; margin-top: 10px;">
     <a href="#" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">REPO</a>
 </div>
 
+In this project, we develop and rigorously evaluate a computational approach for inferring slow changes in respiratory volume (RV) and heart rate (HR) directly from the fMRI signal, without the need for fast multiband sampling or slice-based reconstructions. Leveraging a multi-task learning (MTL) framework, our approach simultaneously learns RV and HR, providing a robust method for enhancing fMRI data.
 
-### Life-Span
+The model undergoes extensive validation through new experiments, larger subject pools, and the inclusion of an external dataset. We also incorporate a task model to account for brain-state dependency, ensuring that the inferred signals are contextually relevant. This project goes beyond model development by thoroughly assessing the utility of the predicted signals, model performance, interpretability, and sensitivity.
 
+The result is a meticulously validated tool that enriches neuroimaging datasets by reconstructing missing or corrupted physiological data, specifically tailored for the young adult population.
+
+<p align="center">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/images/young.png?raw=true" width="500">
+</p>
+
+---
+
+### Lifespan Project
 
 <div style="display: flex; gap: 10px; margin-top: 10px;">
     <a href="#" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">REPO</a>
 </div>
+
+In our lifespan project, we propose a novel framework that leverages Transformer-based architectures to reconstruct two key physiological signals—low-frequency respiratory volume (RV) and heart rate (HR) fluctuations—directly from fMRI data. This approach is specifically designed for and tested on a dataset of individuals aged 36-89 years old, encompassing a broad range of the adult lifespan.
+
+We evaluate several model training and fine-tuning strategies, with a significant finding that incorporating young adult data during training improves model performance when predicting physiological signals in the aging cohort. This highlights the importance of cross-cohort learning and the adaptability of our models across different age ranges.
+
+Our framework successfully infers critical physiological variables directly from fMRI data, offering a powerful tool for studying brain-body interactions across a wide span of the adult lifespan. This work not only advances the field of neuroimaging but also enhances the efficacy of fMRI as a biomarker in aging research.
+
+<p align="center">
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/images/aging.png?raw=true" width="500">
+</p>
+
+
 
 ---
 ## Quality Assesment (QA)
----
 
 While traditionally regarded as noise, systemic physiological processes are frequently shown to be linked with cognitive processes and may contribute valuable information to fMRI studies. Recognizing this, neuroimaging research increasingly draws upon concurrent recordings of peripheral physiology to enhance fMRI analysis. However, usefulness of physiological data is contingent upon the quality of the recordings as well as expertise in data handling. Quality assessment is not only a tedious process, but the assessments vary significantly between raters. While there are manual and template-based tools assessing peak detection quality (physiopy’s peakdet, PhysIO, etc.), and automated exclusion criteria based on statistical summary metrics, currently there are no automated approaches that can provide a quick quality check.
 
-<p align="left">
+<p align="center">
 <img src="https://github.com/neurdylab/physai/blob/main/docs/assets/images/qa.png?raw=true" width="500">
 </p>
 
