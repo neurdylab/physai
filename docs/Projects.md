@@ -27,6 +27,8 @@ While traditionally regarded as noise, systemic physiological processes are freq
 <img src="https://github.com/neurdylab/physai/blob/main/docs/assets/images/qa.png?raw=true" width="500">
 </p>
 
+---
+
 ### Manual QA
 
 We are working on designing a manual quality assessment tool for physiological data. This application will offers a streamlined interface for visualizing and evaluating data quality across various physiological signals, including but not limited to respiration and cardiac measures. 
