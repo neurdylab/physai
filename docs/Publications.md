@@ -36,8 +36,6 @@
     <a href="https://www.github.com/neurdylab/deep-physio-recon" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">CODE</a>
 </div></div>
 
-[@bayrak2020deep]
-
 ---
 
 <div class="md-typeset" style="margin-bottom: 20px; padding: 15px; border-radius: 8px; background-color: var(--md-default-bg-color); color: var(--md-default-fg-color);">
@@ -87,10 +85,8 @@
 <p style="font-style: italic;">In Organization for Human Brain Mapping—OHBM 2024: 30th International Conference, Seoul, Korea, June 23 -- 27, 2024, Proceedings, 2024</p>
 
 <div style="display: flex; gap: 10px; margin-top: 10px;">
-    <a href="#" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">POSTER</a>
-</div>
-
-</div>
+    <a href="https://rgbayrak.github.io/assets/pdf/pp_poster.pdf" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">POSTER</a>
+</div></div>
 
 ---
 
@@ -103,10 +99,22 @@
 <p style="font-style: italic;">In Organization for Human Brain Mapping—OHBM 2024: 30th International Conference, Seoul, Korea, June 23 -- 27, 2024, Proceedings, 2024</p>
 
 <div style="display: flex; gap: 10px; margin-top: 10px;">
-    <a href="#" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">POSTER</a>
-</div>
+    <a href="https://rgbayrak.github.io/assets/pdf/physioqa_poster.pdf" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">POSTER</a>
+</div></div>
 
-</div>
+---
+
+<div class="md-typeset" style="margin-bottom: 20px; padding: 15px; border-radius: 8px; background-color: var(--md-default-bg-color); color: var(--md-default-fg-color);">
+
+<h3 style="margin-top: 0;">Physiopy: a Python suite for handling physiological data recorded in neuroimaging settings</h3>
+
+<p>Roza G Bayrak, Catie Chang and 26 more authors.</a></p>
+  
+<p style="font-style: italic;">In Organization for Human Brain Mapping—OHBM 2024: 30th International Conference, Seoul, Korea, June 23 -- 27, 2024, Proceedings, 2024</p>
+
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+    <a href="https://rgbayrak.github.io/assets/pdf/physiopy_poster.pdf" target="_blank" class="md-button md-button--primary" style="padding: 4px 8px; font-size: 0.85rem;">POSTER</a>
+</div></div>
 
 ---
 
