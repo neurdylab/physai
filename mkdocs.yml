@@ -1,10 +1,13 @@
 site_name: PhysAI
+repo_url: https://github.com/neurdylab/physai
+repo_name: neurdylab/physai
 
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - toc.integrate 
     - navigation.top
     - search.suggest
@@ -26,6 +29,19 @@ theme:
         name: Light Mode
       primary: indigo
       accent: indigo
+
+nav:
+  - Home: 
+    - About: index.md
+    - Funding: home/funding.md
+    - Contact: home/contact.md
+  - Projects: projects.md
+  - Publications: publications.md
+  - Resources: 
+    - Tutorials: resources/tutorials.md
+    - Datasets: resources/datasets.md
+  - Team: team.md
+  
 
 extra:
   social:
