@@ -36,6 +36,7 @@ nav:
     - Funding: home/funding.md
     - Contact: home/contact.md
   - Projects: 
+    - projects/projects.md
     - projects/deepphysiorecon.md
     - projects/qa.md
   - Resources: 
