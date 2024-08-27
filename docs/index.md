@@ -1,17 +1,5 @@
 # Homepage
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Alongside rapid progress in the use of functional magnetic resonance imaging (fMRI) for studying human brain activity, the importance of modeling the brain’s connections with the physiology of the body has been gaining increasing recognition. Dynamic characteristics of the body's physiology, such as changes in breathing and cardiac activity, provide windows into health and disease as well as critical functions such as cognition and emotion. Monitoring the body’s physiology during fMRI experiments is also vital for the precision and interpretation of fMRI studies, since variations in blood-oxygen-level-dependent (BOLD) fMRI signals are closely linked with autonomic physiological processes. 
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Broadly, this work investigates relationships between peripheral physiological signals and brain-wide hemodynamics measured with fMRI. Since many fMRI datasets do not contain concurrent physiological measures, a major goal is to develop machine learning techniques for extracting key aspects of physiological dynamics directly from fMRI data, aiming to enrich existing fMRI datasets with missing physiological information. Further, we are developing techniques to address substantial practical challenges arising from the need to carefully inspect and clean recorded physiological data prior to its use in fMRI or with other neurotechnologies. The resulting tools, code, and methods are openly available to the research community.

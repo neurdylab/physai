@@ -188,6 +188,6 @@ Vanderbilt University<br>
 <div style="flex: 3; padding-left: 20px;">
 
 <strong>Bennett Landman, PhD</strong><br>
-Profesor<br>
+Professor<br>
 Vanderbilt University<br>
 </div></div>
