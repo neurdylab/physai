@@ -40,10 +40,10 @@ nav:
     - Tutorials: resources/tutorials.md
     - Datasets: resources/datasets.md
   - Publications: 
-    - Y4: 2024.md
-    - Y3: 2023.md
-    - Y2: 2022.md
-    - Y1: 2021.md
+    - 2024: publications/y4.md
+    - 2023: publications/y3.md
+    - 2022: publications/y2.md
+    - 2021: publications/y1.md
   - Collaborations: collaborations.md
   - Team: team.md
   
