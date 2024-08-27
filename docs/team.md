@@ -13,8 +13,6 @@
 <strong>Catie Chang, PhD</strong><br>
 Assistant Professor<br> 
 Vanderbilt University<br>
-<br>
-<strong>Role:</strong> Principal Investigator<br>
 
 </div>
 
@@ -137,8 +135,8 @@ University of Southern California<br>
 <div style="flex: 3; padding-left: 20px;">
 
 <strong>Ben Gold, PhD</strong><br>
-Postdoctoral Researcher<br>
-Vanderbilt University<br>
+Research Analyst<br>
+AnLar<br>
 </div></div>
 
 ---
