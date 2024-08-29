@@ -30,6 +30,8 @@ theme:
         name: Light Mode
       primary: indigo
       accent: indigo
+  icon:
+    annotation: material/chevron-right-circle
 
 nav:
   - Home: 
@@ -76,6 +78,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
+  - pymdownx.caret
+  - pymdownx.tilde
   - attr_list
   - md_in_html
   - pymdownx.emoji:

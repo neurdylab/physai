@@ -12,7 +12,7 @@ Together, through open collaboration and shared resources, we can accelerate sci
 ## How to Get Involved
 We believe that the power of collaboration drives innovation and accelerates scientific progress. That's why we welcome contributions from researchers, developers, and enthusiasts of all backgrounds. Whether you're interested in improving our codebase, sharing your insights, or helping with documentation, there’s a place for you in our project.
 
-### Ways to Contribute
+<h3>Ways to Contribute</h3>
 
 **1. Code Contributions:** Help us enhance existing features or develop new ones by contributing to our open-source repositories.
 
