@@ -6,6 +6,7 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.indexes
     - toc.integrate 
@@ -41,9 +42,7 @@ nav:
     - projects/qa.md
   - Resources: 
     - Talks: resources/talks.md
-    - Tutorials: 
-      - Automated Quality Assessment: resources/tutorials/ml_qa.md
-      - Manual Quality Assessment: resources/tutorials/manual_qa.md
+    - Tutorials: resources/tutorials.md
     - Datasets: resources/datasets.md
   - Publications: 
     - 2024: publications/y4.md
