@@ -6,7 +6,7 @@ Many studies of the human brain using functional magnetic resonance imaging (fMR
 
 ### Young Adult Project
 
-[REPO :simple-github:](#){ .md-button }
+[REPO :simple-github:](https://github.com/neurdylab/deep-physio-recon){ .md-button }
 
 In this project, we develop and rigorously evaluate a computational approach for inferring slow changes in respiratory volume (RV) and heart rate (HR) directly from the fMRI signal, without the need for fast multiband sampling or slice-based reconstructions. Leveraging a multi-task learning (MTL) framework, our approach simultaneously learns RV and HR, providing a robust method for enhancing fMRI data.
 
@@ -31,7 +31,7 @@ estimation. The output of linear layers are RV and HR signals.
 
 ### Lifespan Project
 
-[REPO :simple-github:](#){ .md-button }
+[REPO :simple-github:](https://github.com/neurdylab/deep-physio-recon-lifespan){ .md-button }
 
 In our lifespan project, we propose a novel framework that leverages Transformer-based architectures to reconstruct two key physiological signals—low-frequency respiratory volume (RV) and heart rate (HR) fluctuations—directly from fMRI data. This approach is specifically designed for and tested on a dataset of individuals aged 36-89 years old, encompassing a broad range of the adult lifespan.
 
