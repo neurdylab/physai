@@ -12,7 +12,7 @@ Quality Assurance Tools include both manual and automated tools for the quality 
 
     ---
 
-    A suite of [tools](./projects/index) including code, models, and detailed documentation designed for the quality assurance of physiological signals and the inference of physiological dynamics from fMRI data.
+    A suite of [tools](./projects) including code, models, and detailed documentation designed for the quality assurance of physiological signals and the inference of physiological dynamics from fMRI data.
 
 
 -   :material-google-analytics:{ .lg .middle } __Science__
