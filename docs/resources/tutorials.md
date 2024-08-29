@@ -148,18 +148,18 @@ def download_file(url, file_path):
 ```
 
 ``` python
-% URLs to the dataset files
+# URLs to the dataset files
 base_url = "https://osf.io/z8yph/download"
 input_url = f"{base_url}?filename=cardiac_input.pkl"
 label_url = f"{base_url}?filename=cardiac_label.pkl"
 
 
-% File paths where the data will be saved
+# File paths where the data will be saved
 input_file_path = "cardiac_input.pkl"
 label_file_path = "cardiac_label.pkl"
 
 
-% Download the files
+# Download the files
 download_file(input_url, input_file_path)
 download_file(label_url, label_file_path)
 ```
