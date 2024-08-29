@@ -17,6 +17,7 @@ This guide will help you utilize the QA_app, a tool for visualizing and manually
 ### Step 2: Prepare Your Data
 
 **Access example data files**:
+
 - The repository includes a `Data` folder with four example `.mat` files. Each file represents a different subject with various physiological measures.
 
 **Example folder structure**:
@@ -32,27 +33,32 @@ This guide will help you utilize the QA_app, a tool for visualizing and manually
 
 ### Step 3: Launch the Application
 
-**Start the QA_app**:
 - **Open MATLAB** and set your current directory to the root of the `physio_QA_manual` folder.
 - **Execute the `QA_App_v101.m` script** by typing the script's name in the Command Window and pressing Enter. This will open the Quality Assessment GUI.
 
 ### Step 4: Using the App
 
-**Navigate and use the QA_app**:
-
 **Load Data**:
 
 - Click on the `Load` button to populate the interface with fields from your `.mat` files.
+- Enter the name of a physiological measure to display its data.
+
+!!! note 
+    You can load two physiological variables to QA simultaneously and an auxiliary waveform to aid your decision making process. 
    
 **View and Assess Data**:
 
-- Enter the name of a physiological measure to display its data.
 - Use the `Previous` and `Next` buttons to browse through different subjects.
 - Rate each data segment's quality using categories like `Great`, `Good`, `Fixable`, or `Bad`.
    
 **Add Comments**:
    
 - Provide comments in the provided text box, especially if you mark data as `Fixable`. This helps in later reviews or corrections.
+
+<figure markdown="span">
+  ![Image title](../../assets/images/manualqa.png){ width="600" }
+  <figcaption>Preview of the manual annotation tool.</figcaption>
+</figure>
 
 ### Step 5: Save and Review Results
 
@@ -61,11 +67,10 @@ This guide will help you utilize the QA_app, a tool for visualizing and manually
 - The app automatically saves your ratings and comments into a CSV file named based on your inputs during the initial setup.
 - This file is stored in the root directory of the repository and can be referred to as `result.csv` or another name you provided.
 
-**Important considerations**:
+!!! Warning "Important Notes"
 
-- *Do not modify the structure of the output CSV file or the repository folders* after starting your assessments to avoid inconsistencies or data loss.
-- You can close and reopen the app at any time; your assessments are saved continuously.
+    - You can close and reopen the app at any time; your assessments are saved continuously. **Do NOT** modify the structure of the CSV file or the Data folder after starting your assessments to avoid inconsistencies or data loss.
 
 ---
 
-For further assistance or troubleshooting, feel free to open an [issue](https://github.com/neurdylab/physio_QA_manual/issues) on github.
+For further assistance or troubleshooting, feel free to open an [issue](https://github.com/neurdylab/physio_QA_manual/issues) on or github repo.
