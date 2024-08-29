@@ -1,4 +1,4 @@
-# Why PhysAI?
+# Projects
 
 Alongside rapid progress in the use of functional magnetic resonance imaging (fMRI) for studying human brain activity, the importance of modeling the brain’s connections with the physiology of the body has been gaining increasing recognition. Dynamic characteristics of the body's physiology, such as changes in breathing and cardiac activity, provide windows into health and disease as well as critical functions such as cognition and emotion. Monitoring the body’s physiology during fMRI experiments is also vital for the precision and interpretation of fMRI studies, since variations in blood-oxygen-level-dependent (BOLD) fMRI signals are closely linked with autonomic physiological processes. 
 

@@ -35,23 +35,24 @@ theme:
 
 nav:
   - Home: 
-    - About: index.md
-    - Funding: home/funding.md
-    - Contact: home/contact.md
+    - index.md
+    - home/funding.md
+    - home/contact.md
   - Projects: 
-    - projects/home.md
+    - projects/index.md
     - projects/deepphysiorecon.md
     - projects/qa.md
   - Resources: 
-    - Talks: resources/talks.md
-    - Tutorials: resources/tutorials.md
-    - Datasets: resources/datasets.md
+    - resources/index.md
+    - resources/talks.md
+    - resources/tutorials.md
+    - resources/datasets.md
   - Publications: 
-    - 2024: publications/y4.md
-    - 2023: publications/y3.md
-    - 2022: publications/y2.md
-    - 2021: publications/y1.md
-    - 2020: publications/y0.md
+    - publications/2024.md
+    - publications/2023.md
+    - publications/2022.md
+    - publications/2021.md
+    - publications/2020.md
   - Collaborations: collaborations.md
   - Team: team.md
   
