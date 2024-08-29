@@ -1,4 +1,4 @@
-# Quality Assesment (QA)
+# Quality Assessment (QA)
 
 While traditionally regarded as noise, systemic physiological processes are frequently shown to be linked with cognitive processes and may contribute valuable information to fMRI studies. Recognizing this, neuroimaging research increasingly draws upon concurrent recordings of peripheral physiology to enhance fMRI analysis. However, the usefulness of physiological data is contingent upon the quality of the recordings as well as expertise in data handling. Not only is quality assessment a tedious process, but the assessments can also vary significantly between raters. While there are manual and template-based tools for assessing peak detection quality (physiopy’s peakdet, PhysIO, etc.), and automated exclusion criteria based on statistical summary metrics, we are not aware of automated approaches that can provide a rapid, effective determination of quality on the whole-scan or windowed level.
 
