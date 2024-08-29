@@ -7,17 +7,17 @@ hide:
 
 This guide will help you utilize the QA_app, a tool for visualizing and manually assessing the quality of physiological data in MATLAB. By following these instructions, you'll be able to label data quality, add comments, and generate a summary CSV file with your annotations.
 
-### Step 1: Download the MATLAB Application
+<h3>Step 1: Download the MATLAB Application</h3>
 
 **Download the application files**:
 
-- **Clone the GitHub repository** containing the application. If you have Git installed, open your terminal or command prompt and run:
-  ```bash
-  git clone https://github.com/neurdylab/physio_QA_manual.git
-  ```
-- Alternatively, **download the ZIP file** from the GitHub page and extract it to your desired location.
+**Clone the GitHub repository** containing the application. If you have Git installed, open your terminal or command prompt and run:
+```bash
+git clone https://github.com/neurdylab/physio_QA_manual.git
+```
+Alternatively, **download the ZIP file** from the GitHub page and extract it to your desired location.
 
-### Step 2: Prepare Your Data
+<h3>Step 2: Prepare Your Data</h3>
 
 **Access example data files**:
 
@@ -34,12 +34,12 @@ This guide will help you utilize the QA_app, a tool for visualizing and manually
         ...
 ```
 
-### Step 3: Launch the Application
+<h3>Step 3: Launch the Application</h3>
 
 - **Open MATLAB** and set your current directory to the root of the `physio_QA_manual` folder.
 - **Execute the `QA_App_v101.m` script** by typing the script's name in the Command Window and pressing Enter. This will open the Quality Assessment GUI.
 
-### Step 4: Using the App
+<h3>Step 4: Using the App</h3>
 
 **Load Data**:
 
@@ -63,7 +63,7 @@ This guide will help you utilize the QA_app, a tool for visualizing and manually
   <figcaption>Preview of the manual annotation tool.</figcaption>
 </figure>
 
-### Step 5: Save and Review Results
+<h3>Step 5: Save and Review Results</h3>
 
 **Check and save your assessment results**:
 
@@ -80,9 +80,9 @@ For further assistance or troubleshooting, feel free to open an [issue](https://
 
 ---
 
-## Tutorial for Simple Automated Quality Assessment for Cardiac Data
+## Simple Automated Quality Assessment for Cardiac Data
 
-#### Step 1: Setting Up Your Environment
+<h3>Step 1: Setting Up Your Environment</h3>
 Before diving into the code, ensure your Python environment is properly set up to handle the required tasks. You will need specific libraries to run the provided code. Here's how to set them up:
 
 **Create a virtual environment** (optional but recommended):
@@ -106,7 +106,7 @@ Before diving into the code, ensure your Python environment is properly set up t
    pip install -r requirements.txt
    ```
 
-#### Step 2: Import Necessary Libraries
+<h3>Step 2: Import Necessary Libraries</h3>
 Open your Python script or notebook and import the necessary modules:
 
 ```python
@@ -123,7 +123,7 @@ from sklearn.model_selection import train_test_split, KFold
 from sklearn.preprocessing import StandardScaler
 ```
 
-#### Step 3: Load and Prepare the Data
+<h3>Step 3: Load and Prepare the Data</h3>
 For this tutorial, you will use a dataset containing cardiac signals.
 
 **Download the dataset**: Ensure that the files `cardiac_input.pkl` and `cardiac_label.pkl` are placed in your working directory. These files can be downloaded from the provided OSF link: [OSF Dataset](https://osf.io/z8yph/).
@@ -180,7 +180,7 @@ x = x[~nanmask]
 y = y[~nanmask]
 ```
 
-#### Step 4: Define and Train the Model
+<h3>Step 4: Define and Train the Model</h3>
 You will use a 1D CNN, which is suitable for time-series and sequence data like cardiac signals.
 
 **Setup cross-validation**: Use 5-fold cross-validation to ensure the model generalizes well across different subsets of your data.
@@ -210,7 +210,7 @@ model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy']
 history = model.fit(X_train, y_train, epochs=25, validation_split=0.2, batch_size=2, callbacks=[EarlyStopping(monitor='val_loss', patience=5, restore_best_weights=True)])
 ```
 
-#### Step 5: Results and Visualization: 
+<h3>Step 5: Results and Visualization:</h3>
 
 Plot the training history and display the accuracy and loss metrics to evaluate the model performance:
 ```python
