@@ -15,12 +15,13 @@ We are deeply grateful for this support, which played a crucial role in driving 
 <img src="https://github.com/neurdylab/physai/blob/main/docs/assets/logos/nihbrain.png?raw=true" width="500">
 </p>
 
+---
 
 This project is actively maintained by:
 
 - **Roza G. Bayrak**  
   Research Assistant Professor, [Vanderbilt University](https://www.vanderbilt.edu/)  
-  Email: [maintainer@gmail](mailto:neurdylab@gmail.com)  
+  Email: [neurdylab@gmail](mailto:neurdylab@gmail.com)  
   GitHub: [@rgbayrak](https://github.com/your-github-username)
 
 For any questions, issues, or contributions, please feel free to contact the maintainer.
