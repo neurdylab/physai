@@ -17,11 +17,9 @@ We are deeply grateful for this support, which played a crucial role in driving 
 
 ---
 
-This project is actively maintained by:
+This project is actively maintained by: [@rgbayrak](https://github.com/rgbayrak)
 
-- **Roza G. Bayrak**  
-  Research Assistant Professor, [Vanderbilt University](https://www.vanderbilt.edu/)  
-  Email: [neurdylab@gmail](mailto:neurdylab@gmail.com)  
-  GitHub: [@rgbayrak](https://github.com/your-github-username)
+Email: [neurdylab@gmail.com](mailto:neurdylab@gmail.com)  
+
 
 For any questions, issues, or contributions, please feel free to contact the maintainer.
