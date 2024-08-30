@@ -1,9 +1,9 @@
 # PhysAI
 
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
-[![Build Status](https://travis-ci.org/neurdylab/physai.svg?branch=main)](https://travis-ci.org/neurdylab/physai)
+[![CI](https://github.com/neurdylab/physai/actions/workflows/ci.yml/badge.svg)](https://github.com/neurdylab/physai/actions/workflows/ci.yml)
 
-Funding: 
+## Funding 
 
 This work is made possible through the generous support of the BRAIN Initiative, specifically under the NIH grant RF1MH125931. 
 
@@ -18,7 +18,6 @@ We are deeply grateful for this support, which played a crucial role in driving 
 ---
 
 This project is actively maintained by: [@rgbayrak](https://github.com/rgbayrak)
-
 Email: [neurdylab@gmail.com](mailto:neurdylab@gmail.com)  
 
 
