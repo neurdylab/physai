@@ -47,7 +47,8 @@ nav:
     - resources/talks.md
     - resources/tutorials.md
     - resources/datasets.md
-  - Publications: 
+  - Publications:
+    - publications/2025.md
     - publications/2024.md
     - publications/2023.md
     - publications/2022.md
