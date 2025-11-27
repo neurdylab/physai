@@ -62,10 +62,8 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://www.github.com/neurdylab
-    - icon: fontawesome/brands/twitter
-      link: https://www.x.com/neurdylab
     - icon: fontawesome/solid/globe
-      link: https://www.cchanglab.com
+      link: https://www.cchanglab.net/
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -88,4 +86,4 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: Copyright © 2024 NEURDY Lab
+copyright: Copyright © 2026 NEURDY Lab
