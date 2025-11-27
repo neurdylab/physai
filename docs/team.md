@@ -33,6 +33,24 @@ PhD Candidate<br>
 Vanderbilt University
 </div>
 
+<div style="text-align: center;">
+<p>
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/shansita.jpg?raw=true" width="120" style="border-radius: 8px;">
+</p>
+<strong>Shansita Sharma</strong><br>
+Undergraduate Student<br>
+Vanderbilt University
+</div>
+
+<div style="text-align: center;">
+<p>
+<img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/juan.jpg?raw=true" width="120" style="border-radius: 8px;">
+</p>
+<strong>Juan Gomez Lagandara</strong><br>
+PhD Student<br>
+Vanderbilt University
+</div>
+
 </div>
 
 ## Collaborators
