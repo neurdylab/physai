@@ -66,8 +66,7 @@ University of Southern California
 <img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/richard.jpg?raw=true" width="120" style="border-radius: 8px;">
 </p>
 <strong>Richard Song</strong><br>
-Undergraduate Student<br>
-Vanderbilt University
+NEURDY Lab Alumni
 </div>
 
 <div style="text-align: center;">
@@ -75,8 +74,7 @@ Vanderbilt University
 <img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/ben.jpg?raw=true" width="120" style="border-radius: 8px;">
 </p>
 <strong>Ben Gold, PhD</strong><br>
-Research Analyst<br>
-AnLar
+NEURDY Lab Alumni
 </div>
 
 <div style="text-align: center;">
@@ -84,8 +82,7 @@ AnLar
 <img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/sarah.jpg?raw=true" width="120" style="border-radius: 8px;">
 </p>
 <strong>Sarah Goodale, PhD</strong><br>
-Postdoctoral Researcher<br>
-Vanderbilt University
+NEURDY Lab Alumni
 </div>
 
 <div style="text-align: center;">
@@ -93,8 +90,7 @@ Vanderbilt University
 <img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/ziyuan.jpg?raw=true" width="120" style="border-radius: 8px;">
 </p>
 <strong>Ziyuan Xu</strong><br>
-Undergraduate Student<br>
-Vanderbilt University
+NEURDY Lab Alumni
 </div>
 
 <div style="text-align: center;">
@@ -102,8 +98,7 @@ Vanderbilt University
 <img src="https://github.com/neurdylab/physai/blob/main/docs/assets/team/rithwik.jpg?raw=true" width="120" style="border-radius: 8px;">
 </p>
 <strong>Rithwik Guntaka</strong><br>
-Research Assistant<br>
-Vanderbilt University
+NEURDY Lab Alumni
 </div>
 
 <div style="text-align: center;">
