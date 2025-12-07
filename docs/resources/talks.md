@@ -1,3 +1,13 @@
+<h3>Dynamic brain-body states: implications for reproducible and interpretable neuroimaging</h3>
+
+*<p>Speakers: Catie Chang, PhD and Roza G. Bayrak, PhD</p>
+*  
+*<p>ReproNim Monthly Webinar Series, December 5, 2025</p>*
+
+[SLIDES :material-presentation:](https://github.com/neurdylab/physai/blob/main/docs/assets/slides/repronim.pdf){ .md-button } 
+
+---
+
 <h3>A practical guide to acquiring and quality checking your own data</h3>
 
 *<p>Speaker: Sarah Goodale, PhD</p>
