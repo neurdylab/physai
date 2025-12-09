@@ -4,7 +4,7 @@
 *  
 *<p>ReproNim Monthly Webinar Series, December 5, 2025</p>*
 
-[SLIDES :material-presentation:](https://neurdylab.github.io/physai/docs/assets/slides/repronim.pdf){ .md-button } 
+[SLIDES :material-presentation:](https://github.com/neurdylab/physai/blob/main/docs/assets/slides/repronim.pdf){ .md-button } 
 
 ---
 
