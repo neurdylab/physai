@@ -22,14 +22,14 @@ theme:
       toggle:
         icon: material/weather-night
         name: Dark Mode
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: teal
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Light Mode
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: teal
   icon:
     annotation: material/chevron-right-circle
 
