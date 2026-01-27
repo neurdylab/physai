@@ -22,14 +22,14 @@ theme:
       toggle:
         icon: material/weather-night
         name: Dark Mode
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: teal
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Light Mode
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: teal
   icon:
     annotation: material/chevron-right-circle
 
@@ -48,6 +48,7 @@ nav:
     - resources/tutorials.md
     - resources/datasets.md
   - Publications:
+    - publications/2026.md
     - publications/2025.md
     - publications/2024.md
     - publications/2023.md

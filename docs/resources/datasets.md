@@ -43,10 +43,13 @@ Currently, we are in the process of preparing these resources for public release
 ---
 
 <h3> References </h3>
+
 1.  Power JD, Lynch CJ, Dubin MJ, et al (2020). Characteristics of respiratory measures
 in young adults scanned at rest, including systematic changes and “missed” deep
 breaths. Neuroimage 204:116,234
+
 2.  Xifra-Porxas A, Kassinopoulos M, Mitsis GD (2021). Physiological and motion
 signatures in static and time-varying functional connectivity and their subject
 identifiability. Elife 10:e62,324
-3. Fan J, Juttukonda MR, Goodale SE, Wang S, Orbán C, Varadarajan D, Polimeni JR, Chang C, Salat DH, Chen JE (2025). Functional MRI signatures of autonomic physiology in aging. Communications Biology, 8(1), 1287.
+
+3.  Fan J, Juttukonda MR, Goodale SE, Wang S, Orbán C, Varadarajan D, Polimeni JR, Chang C, Salat DH, Chen JE (2025). Functional MRI signatures of autonomic physiology in aging. Communications Biology, 8(1), 1287.
